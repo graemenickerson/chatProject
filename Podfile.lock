@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.8.1)
+  - AutoKeyboard (1.4.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - AutoKeyboard (~> 1.4)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AutoKeyboard
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  AutoKeyboard: edf0c19a521c0491d57e8b8a35c766c5bcca3d0e
+
+PODFILE CHECKSUM: b22502003f9d787025a1d9f54de4e3c75befe113
+
+COCOAPODS: 1.6.1
